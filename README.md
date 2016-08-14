@@ -1,4 +1,4 @@
-# netlooker_docs
+# netlooker's docs
 This is my repo for storing Internet findings and interesting stuff in one place.
 
 ## Drupal 8 resources
