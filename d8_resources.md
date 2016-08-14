@@ -1,4 +1,5 @@
 ### Video tutorials (that I found interesting)
+- [DrupalCon Barcelona 2015: Drupal 8 theming](https://youtu.be/1m6WR7e7qwU)
 - [Drupal 8 theming](http://watch-learn.com/series/drupal-8-theming)
 - [One Page App With Drupal 8 and Vue.js](http://watch-learn.com/series/one-page-app-with-drupal-8-and-vue-js)
 
