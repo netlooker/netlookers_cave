@@ -8,6 +8,7 @@ Shell dump for the operations that I've performed:
 > sudo apt-get install software-properties-common
 > sudo add-apt-repository ppa:gophers/archive
 > sudo apt-get update
+> sudo apt-get install golang-1.8
 > sudo apt-get install nano
 > 
 > ```
